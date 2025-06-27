@@ -10,7 +10,7 @@ Over time, I’ve built a solid foundation in back-end development, and I contin
 - Languages : C# & C++
 - Frameworks: .NET Framework, **Ongoing** : ASP.NET Core (Web API)
 - Database: SQL Server, ADO.NET
-- Tools: Git, GitHub
+- Tools: Git, GitHub, **Ongoing** : Swagger
 ***
 ## 🌟 Featured Projects:
 
