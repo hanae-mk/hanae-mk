@@ -14,7 +14,13 @@ Over time, I’ve built a solid foundation in back-end development, and I contin
 ## 🌟 Featured Projects:
 ## [Driving Vehicle License Department System](https://github.com/hanae-mk/DVLD_Project)
 Desktop app for managing licenses and registrations with a 3-Tier architecture.
+
 **Tech** : .NET Framework, WinForms, SQL Server, ADO.NET
+
+## [Bank Management System](https://github.com/hanae-mk/Bank-Management-System)
+Console app for managing Bank Accounts and registrations using OOP Principles.
+
+**Tech** : C++ Programming Language
 
 
 
