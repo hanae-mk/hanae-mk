@@ -27,6 +27,7 @@ Console app for managing Bank Accounts and registrations using OOP Principles.
 
 ## 🎓 Certifications:
 - Completed **Foundational C# with Microsoft** From freeCodeCamp
+***
 
 ## 📫 Connect with Me:
 
