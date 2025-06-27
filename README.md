@@ -21,6 +21,12 @@ Desktop app for managing licenses and registrations with a 3-Tier architecture.
 Console app for managing Bank Accounts and registrations using OOP Principles.
 
 **Tech** : C++ Programming Language
+***
+## 📫 Connect with Me
+- **Email** : hanaemessarikhali@gmail.com
+- **LinkedIn** : [Hanae Messari Khali](https://github.com/linkedin.com/in/hanae-mk)
+
+
 
 
 
