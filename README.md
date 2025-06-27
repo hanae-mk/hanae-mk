@@ -24,7 +24,7 @@ Console app for managing Bank Accounts and registrations using OOP Principles.
 ***
 ## 📫 Connect with Me
 - **Email** : hanaemessarikhali@gmail.com
-- **LinkedIn** : [Hanae Messari Khali](https://github.com/linkedin.com/in/hanae-mk)
+- **LinkedIn** : [Hanae Messari Khali](https://linkedin.com/in/hanae-mk)
 
 
 
