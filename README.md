@@ -23,9 +23,10 @@ Console app for managing Bank Accounts and registrations using OOP Principles.
 **Tech** : C++ Programming Language
 ***
 ## 📫 Connect with Me
-- **Email** : hanaemessarikhali@gmail.com
-- **LinkedIn** : [Hanae Messari Khali](https://linkedin.com/in/hanae-mk)
+📧 hanaemessarikhali@gmail.com
 
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24"/>](https://www.linkedin.com/in/hanae-mk)
+[Hanae Messari Khali](https://linkedin.com/in/hanae-mk)
 
 
 
