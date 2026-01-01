@@ -8,9 +8,9 @@ Over time, I’ve built a solid foundation in back-end development, and I contin
 ## 🛠️ Tech Stack:
 
 - Languages : C# & C++
-- Frameworks: .NET Framework, **Ongoing** : ASP.NET Core
+- Frameworks: .NET Framework, ASP.NET Core Web API (In Progress)
 - Database: SQL Server, ADO.NET
-- Tools: Git, GitHub, **Ongoing** : Swagger
+- Tools: Git, GitHub, Swagger (In Progress)
 ***
 ## 🌟 Featured Projects:
 
