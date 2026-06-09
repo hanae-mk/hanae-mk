@@ -1,4 +1,4 @@
-# Hi, I'm Hanae 👋
+# Hi there, I'm Hanae Messari 👋
 
 ### Full Stack Desktop Developer | .NET Framework
 
